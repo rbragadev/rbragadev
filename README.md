@@ -15,7 +15,7 @@ Digite este comando `make generate-gif` para gerar [assets/github.gif](assets/gi
 
 ## Hello, Devs!!
 
-I'm 32 years old, I live in Belo Horizonte/MG and I'm passionate about programming and Games! I'm a FullStack Dev although my development focus is on blockchain technology! I love what I do!❤
+I'm 33 years old, I live in Belo Horizonte/MG and I'm passionate about programming and Games! I'm a FullStack Dev although my development focus is on blockchain technology! I love what I do!❤
 </br>
 
 ## 🖥️ Tools and Tecnologies:
