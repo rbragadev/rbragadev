@@ -25,9 +25,11 @@ I'm 33 years old, I live in Belo Horizonte/MG and I'm passionate about programmi
 
 ## 🚀 Profile:
 <div display="inline-block">
- <p align="left">☕I am part of the Ford Motors Devs team</p>
- <p align="left"> 📚 Study To develop Decentralized applications in Solidity</p>
- <p align="left">📷 I share my experiences with career transition, study tips and technology on <a href="https://www.instagram.com/raffael.braga">Instagram</a>. Follow and come chat!</p>
+  <p align="left">☕I am founder of the VOTe App</p>
+  <p align="left">☕I am part of the B4A Devs team</p>
+  <p align="left">☕I am part of the Ford Motors Devs team</p>
+  <p align="left"> 📚 Study To develop Decentralized applications in Solidity</p>
+  <p align="left">📷 I share my experiences with career transition, study tips and technology on <a href="https://www.instagram.com/raffael.braga">Instagram</a>. Follow and come chat!</p>
  <p align="left">🎮 I only wake up with coffee, I love games (calls for a x1) and I play guitar in my spare time.</p>
 </div>
 </br>
